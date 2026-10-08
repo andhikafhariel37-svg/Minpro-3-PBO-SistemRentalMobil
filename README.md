@@ -52,4 +52,15 @@ Fungsi: Memunculkan objek RentalController dan RentalView, lalu menjalankan prog
 
 ---
 
+## Penjelesan Alur Program
+<img width="327" height="74" alt="image" src="https://github.com/user-attachments/assets/07636a03-2c2d-4d66-bc7f-0f83d4cb57f2" />
+
+Saat pertama kali aplikasi dijalankan, RentalController secara otomatis memuat data sampel awal ke dalam ArrayList sehingga pengguna dapat langsung melihat contoh daftar mobil dan riwayat transaksi.
+
+Pengguna akan ditampilkan 4 Menu
+
+<img width="529" height="116" alt="image" src="https://github.com/user-attachments/assets/70fa7d69-54db-4f3b-8b3b-1fd88a9909ba" />
+Menu 1 memperlihatkan tampilan menu utama saat kita memilih opsi 1 untuk melihat daftar mobil yang tersedia. Sistem langsung menampilkan data armada awal lengkap dengan detail seperti ID, merk, kategori, tarif harian, hingga spesifikasi khusus dari tiap unit kendaraan.
+
+
 
